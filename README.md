@@ -1,9 +1,14 @@
-TESTING READ ME
-
 - 👋 Hi, I’m @dextermontero
+
+
+
 - 👀 I’m interested in ...
+  1. Adventure
+  2. Learning new programming language
+
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+   Laravel 9 
+
 - 📫 How to reach me ...
 
 <!---
