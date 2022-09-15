@@ -13,18 +13,52 @@
 * Playing Computer Games
 
 **Programming Language and Tools**
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/python/python-ar21.svg](https://www.vectorlogo.zone/logos/python/python-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/java/java-ar21.svg](https://www.vectorlogo.zone/logos/java/java-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)"></code>  
-<br />  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/github/github-ar21.svg](https://www.vectorlogo.zone/logos/github/github-ar21.svg)"></code>  
-<code><img width="10%" src="[https://www.vectorlogo.zone/logos/canva/canva-ar21.svg](https://www.vectorlogo.zone/logos/canva/canva-ar21.svg)"></code>
+<p align="inline">
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</code> 
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</code>
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+</code>
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</code>
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+</code>
+</p>
+
+<p align="inline">
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</code>
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+</code>
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
+</code> 
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+</code> 
+&nbsp;
+<code>
+<img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
+</code> 
+</p>
+
+<p align="inline" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dextermontero"/>
-
-
-
 <img src="https://github-readme-stats.vercel.app/api?username=dextermontero&show_icons=true&theme=dark"/>
-
+</p>
