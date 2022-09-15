@@ -1,4 +1,4 @@
-<p align="center" style="text-size:18px;text-weight:bold"> 👋 Hi, I’m Dexter </p><br>
+<p align="center"> **Hi, I’m Dexter** </p><br>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
