@@ -5,6 +5,7 @@
 - 👀 I’m interested in ...
   1. Adventure
   2. Learning new programming language
+  3. Computer Games
 
 - 🌱 I’m currently learning ...
    Laravel 9 
