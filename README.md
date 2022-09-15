@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dextermontero
-
+![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
 
 
 - 👀 I’m interested in ...
