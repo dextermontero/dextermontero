@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dextermontero
+<p align="cennter"> 👋 Hi, I’m @dextermontero </p>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
