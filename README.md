@@ -1,6 +1,6 @@
 #  <label align="center"> Hi, I’m Dexter </label>
-![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
 
+<img height="32px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)">  
 
 - 👀 I’m interested in ...
   1. Adventure
