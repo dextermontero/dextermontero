@@ -3,11 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
 
-**Currenly Developing**
-##### Updating old project to laravel 9
-* Title : Vet Clinic
-* [Repository Link](https://github.com/dextermontero/vetclinic_updated)
-
 **I`m currently learning**
 * Laravel 9
 * Tailwind CSS
