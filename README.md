@@ -6,6 +6,7 @@
 **I`m currently learning**
 * Laravel 9
 * Tailwind CSS
+* React Native
 
 **Interesting in**
 * Adventure
