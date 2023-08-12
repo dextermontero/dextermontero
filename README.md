@@ -38,9 +38,6 @@
 <code>
 <img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </code>
-</p>
-
-<p align="inline">
 &nbsp;
 <code>
 <img height="40" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
