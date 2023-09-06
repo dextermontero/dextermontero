@@ -1,7 +1,8 @@
 
 #  <center>Hi,  I`m Dexter</center>
 
-![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)
+![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)<br>
+[My Portfolio]([https://www.google.com](https://dextermontero.netlify.app/))
 
 **I`m currently learning**
 * Laravel 9
