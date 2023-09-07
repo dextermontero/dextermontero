@@ -5,9 +5,8 @@
 [My Portfolio](https://dextermontero.netlify.app/)<br>
 
 **I`m currently learning**
-* Laravel 9
+* Laravel
 * Tailwind CSS
-* React Native
 
 **Interesting in**
 * Adventure
