@@ -1,5 +1,5 @@
 
-#  <center>Hi,  I`m Dexter</center>
+#  <center>Hi,  I`m Dex</center>
 
 ![](https://komarev.com/ghpvc/?username=dextermontero&style=flat-square)<br>
 [My Portfolio](https://dextermontero.netlify.app/)<br>
